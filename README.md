@@ -20,9 +20,20 @@ it, simply add the following line to your Podfile:
 pod 'CropImage'
 ```
 
+## How To Use
+
+```swift
+import CropImage
+
+CropImageVc.show(image, fromVc: self, cropType: .circular) { img in
+    //...
+}
+
+```
+
 ## Author
 
-sanli, lisan@yeeyuntech.com
+lscocoa, lscocoa@outlook.com
 
 ## License
 

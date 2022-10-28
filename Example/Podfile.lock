@@ -1,0 +1,16 @@
+PODS:
+  - CropImage (0.0.1)
+
+DEPENDENCIES:
+  - CropImage (from `../`)
+
+EXTERNAL SOURCES:
+  CropImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CropImage: a442fc6935d3ce1e515d2625aa32ac72250bb169
+
+PODFILE CHECKSUM: 1589a4bd4f234cacf71658c4bb503340c47f8365
+
+COCOAPODS: 1.11.3

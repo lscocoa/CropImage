@@ -1,0 +1,6 @@
+framework module CropImage {
+  umbrella header "CropImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
